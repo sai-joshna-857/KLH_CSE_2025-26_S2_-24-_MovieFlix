@@ -1,0 +1,50 @@
+1|Interstellar|Sci-Fi, Adventure|Matthew McConaughey, Anne Hathaway|A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+2|Inception|Sci-Fi, Action|Leonardo DiCaprio, Joseph Gordon-Levitt|A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea.
+3|The Dark Knight|Action, Crime|Christian Bale, Heath Ledger|When the menace known as the Joker wreaks havoc, Batman must accept one of the greatest tests to fight injustice.
+4|The Matrix|Sci-Fi, Action|Keanu Reeves, Laurence Fishburne|A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+5|Gladiator|Action, Drama|Russell Crowe, Joaquin Phoenix|A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family.
+6|Avatar|Sci-Fi, Adventure|Sam Worthington, Zoe Saldana|A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world.
+7|Titanic|Romance, Drama|Leonardo DiCaprio, Kate Winslet|A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+8|The Shawshank Redemption|Drama|Tim Robbins, Morgan Freeman|Over the course of several years, two convicts form a friendship, seeking consolation and redemption through basic compassion.
+9|The Godfather|Crime, Drama|Marlon Brando, Al Pacino|The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+10|Fight Club|Drama|Brad Pitt, Edward Norton|An insomniac office worker looking for a way to change his life crosses paths with a devil-may-care soap maker and forms an underground fight club.
+11|RRR|Action, Drama|N. T. Rama Rao Jr., Ram Charan, Alia Bhatt|A fearless revolutionary and an officer in the British force join together to fight against the British Raj in 1920s India.
+12|Baahubali: The Beginning|Action, Fantasy|Prabhas, Rana Daggubati, Anushka Shetty|A young, adventurous man becomes involved in a decades-old feud between two warring brothers in the kingdom of Mahishmati.
+13|Baahubali 2: The Conclusion|Action, Fantasy|Prabhas, Rana Daggubati, Anushka Shetty|When Shiva learns his true royal heritage, he embarks on an epic quest to avenge his father and reclaim the throne.
+14|Pushpa: The Rise|Action, Crime|Allu Arjun, Rashmika Mandanna, Fahadh Faasil|A laborer rises through the ranks of a red sandalwood smuggling syndicate while making powerful enemies.
+15|Kalki 2898 AD|Sci-Fi, Action|Prabhas, Amitabh Bachchan, Deepika Padukone|A modern-day avatar of Vishnu descends to Earth to protect the world from evil forces in a dystopian post-apocalyptic future.
+16|Salaar: Part 1 - Ceasefire|Action, Thriller|Prabhas, Prithviraj Sukumaran, Shruti Haasan|A gang leader makes a promise to a dying friend and takes on other criminal gangs in the dystopian city of Khansaar.
+17|Dangal|Biography, Drama, Sport|Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra|Former wrestler Mahavir Singh Phogat trains his young daughters to become world-class wrestlers against all social stigmas.
+18|3 Idiots|Comedy, Drama|Aamir Khan, R. Madhavan, Sharman Joshi|Two friends search for their long-lost college companion while revisiting their memorable days in an elite engineering college.
+19|Lagaan|Drama, Sport|Aamir Khan, Gracy Singh, Rachel Shelley|The people of a small village in Victorian India stake their future on a game of cricket against ruthless British rulers.
+20|Sholay|Action, Adventure|Dharmendra, Amitabh Bachchan, Sanjeev Kumar|After his family is murdered by a notorious bandit, a former police officer enlists the help of two outlaws to capture him.
+21|Gangs of Wasseypur|Action, Crime, Drama|Manoj Bajpayee, Nawazuddin Siddiqui, Richa Chadha|A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, igniting a deadly multi-generational blood feud.
+22|Vikram|Action, Thriller|Kamal Haasan, Vijay Sethupathi, Fahadh Faasil|A special investigator is assigned a case of serial killings, leading him into an undercover war with a notorious drug cartel.
+23|Leo|Action, Thriller|Thalapathy Vijay, Sanjay Dutt, Trisha Krishnan|A calm cafe owner in Kashmir becomes the target of a vicious crime syndicate who claim he is their estranged former enforcer.
+24|Jailer|Action, Comedy, Crime|Rajinikanth, Vinayakan, Ramya Krishnan|A retired police officer returns to action when his son goes missing while investigating a ruthless criminal idol smuggler.
+25|Ponniyin Selvan: Part 1|Action, Adventure, Drama|Vikram, Aishwarya Rai Bachchan, Jayam Ravi|Vandiyathevan sets out to cross the Chola land to deliver a message from the Crown Prince Aditha Karikalan amidst brewing conspiracies.
+26|Manjummel Boys|Adventure, Drama, Thriller|Soubin Shahir, Sreenath Bhasi, Balu Varghese|A group of friends from a small town embark on a vacation to Kodaikanal, where one friend unexpectedly falls into the perilous Guna Caves.
+27|Premalu|Comedy, Romance|Naslen K. Gafoor, Mamitha Baiju, Shyam Mohan|A young engineering graduate moves to Hyderabad for GATE coaching and falls in love with an IT employee, leading to humorous situations.
+28|Drishyam|Crime, Drama, Thriller|Mohanlal, Meena, Ansiba|A simple cable TV operator goes to extreme lengths and plans an intricate alibi to protect his family from the law after an accidental crime.
+29|Lucifer|Action, Crime, Drama|Mohanlal, Vivek Oberoi, Manju Warrier|A political godfather dies and a sudden power struggle emerges over his political throne, pulling a mysterious figure from the shadows.
+30|KGF: Chapter 1|Action, Crime, Drama|Yash, Srinidhi Shetty, Ramachandra Raju|In the 1970s, a fierce gangster goes undercover as a slave laborer to assassinate the ruthless owner of the Kolar Gold Fields.
+31|KGF: Chapter 2|Action, Crime, Drama|Yash, Sanjay Dutt, Raveena Tandon|Rocky establishes his supremacy over KGF and must defend his criminal empire against government forces and bloodthirsty rivals.
+32|Kantara|Action, Adventure, Drama|Rishab Shetty, Sapthami Gowda, Kishore|When greedy officers and landlords threaten ancestral forest land, a village rebel channels the spirit of a divine demigod to protect his community.
+33|Parasite|Drama, Thriller|Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong|Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.
+34|Spirited Away|Animation, Adventure, Family|Rumi Hiiragi, Miyu Irino, Mari Natsuki|During her family's move to the suburbs, a sullen 10-year-old girl wanders into a magical world ruled by gods, witches, and spirits.
+35|Your Name|Animation, Drama, Fantasy|Ryunosuke Kamiki, Mone Kamishiraishi, Ryo Narita|Two teenagers share a profound, magical connection upon discovering they are swapping bodies across space and time.
+36|Train to Busan|Action, Horror, Sci-Fi|Gong Yoo, Jung Yu-mi, Ma Dong-seok|While a zombie virus breaks out in South Korea, passengers struggle to survive on a high-speed train from Seoul to Busan.
+37|Oldboy|Action, Drama, Mystery|Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong|After being mysteriously kidnapped and imprisoned for fifteen years, a desperate man is released and given five days to track down his captor.
+38|Pan's Labyrinth|Drama, Fantasy, War|Ivana Baquero, Sergi Lopez, Maribel Verdu|In the falangist Spain of 1944, the young stepdaughter of a sadistic army officer escapes into an eerie, captivating fantasy world.
+39|Money Heist: The Phenomenon|Documentary|Alvaro Morte, Ursula Corbero, Pedro Alonso|A detailed look at the global phenomenon and massive cultural impact of the Spanish television heist series.
+40|Pulp Fiction|Crime, Drama|John Travolta, Uma Thurman, Samuel L. Jackson|The lives of two mob hitmen, a boxer, a gangster and his wife intertwine in four tales of violence and redemption.
+41|The Lord of the Rings: The Fellowship of the Ring|Action, Adventure, Drama|Elijah Wood, Ian McKellen, Orlando Bloom|A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring in Mount Doom.
+42|Forrest Gump|Drama, Romance|Tom Hanks, Robin Wright, Gary Sinise|The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75.
+43|Oppenheimer|Biography, Drama, History|Cillian Murphy, Emily Blunt, Matt Damon|The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb during World War II.
+44|Dune: Part Two|Action, Adventure, Sci-Fi|Timothee Chalamet, Zendaya, Rebecca Ferguson|Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his noble family.
+45|Spiderman: Into the Spider-Verse|Animation, Action, Adventure|Shameik Moore, Jake Johnson, Hailee Steinfeld|Teenager Miles Morales becomes the new Spider-Man and joins other alternate dimension heroes to stop a threat to reality.
+46|Eega|Action, Comedy, Fantasy|Nani, Samantha Ruth Prabhu, Sudeep|A murdered man is reincarnated as a common housefly and seeks revenge against his wealthy killer while protecting his lover.
+47|Jersey|Drama, Sport|Nani, Shraddha Srinath, Sathyaraj|A talented but failed cricketer decides to return to cricket in his late thirties to fulfill his son's wish for a jersey.
+48|Asuran|Action, Drama|Dhanush, Manju Warrier, Prakash Raj|A farmer from an underprivileged caste embarks on a desperate journey to save his hot-headed son from the wrath of an influential landlord.
+49|Vikram Vedha|Action, Crime, Drama|Madhavan, Vijay Sethupathi, Shraddha Srinath|A ruthless police inspector tracks down a notorious smuggler and criminal mastermind who challenges his perception of good versus evil.
+50|Super Deluxe|Crime, Drama, Thriller|Vijay Sethupathi, Fahadh Faasil, Samantha Ruth Prabhu|An unfaithful wife, an estranged father, a priest, and an angry son find their lives crossing paths on a single chaotic day.
