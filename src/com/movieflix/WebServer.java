@@ -82,10 +82,10 @@ public class WebServer {
             if (!query.isEmpty()) {
                 for (int i = 0; i < all.size(); i++) {
                     Movie m = all.get(i);
-                    boolean match = KMPMatcher.search(m.getTitle(), query).found
-                                 || KMPMatcher.search(m.getActors(), query).found
-                                 || KMPMatcher.search(m.getGenre(), query).found
-                                 || KMPMatcher.search(m.getDirector(), query).found;
+                    boolean match = KMPMatcher.search(m.getTitle(), query)
+                                 || KMPMatcher.search(m.getActors(), query)
+                                 || KMPMatcher.search(m.getGenre(), query)
+                                 || KMPMatcher.search(m.getDirector(), query);
                     if (match) {
                         matched.add(m);
                     }
